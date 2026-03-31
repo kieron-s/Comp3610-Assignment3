@@ -1,0 +1,12 @@
+pyspark
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+matplotlib
+seaborn
+openai
+pandas
+pyarrow
